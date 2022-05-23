@@ -1,8 +1,3 @@
-This is my submission for the programming assignment
-
-To run this program double-click the runCalcChange file and 
-it will run in Command Line
-
 When asked to enter coin denominations, enter in decimal format
 
 This program will then prompt the user for the value to create change from
